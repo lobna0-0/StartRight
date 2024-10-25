@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/contact-us",
+    "/home",
+    "/plans&pricing",
+    "/solutions",
+    "/why-us"
+  ]
+}

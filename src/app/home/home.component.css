@@ -1,0 +1,30 @@
+.move-up {
+  opacity: 1 !important;
+  transform: translateY(0)  !important;
+  transition: all 0.9s ease-in-out !important;
+}
+.header .img-box{
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0.8s ease-in-out;
+}
+/* .logos{
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0.8s ease-in-out;
+} */
+.header .intro{
+  opacity: 0;
+  transform: translateX(-50px);
+  transition: all 0.8s ease;
+}
+.section-1 .img-box{
+  opacity: 0;
+  transform: translateX(-50px);
+  transition: all 0.8s ease;
+}
+.text-move{
+  opacity: 1 !important;
+  transform: translateX(0)  !important;
+  transition: all 0.9s ease !important;
+}
